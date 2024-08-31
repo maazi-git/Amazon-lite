@@ -1,0 +1,1 @@
+# This is my new project with only html and css, not resposnsive and, I have made an Amazon lite project
